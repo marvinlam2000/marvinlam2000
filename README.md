@@ -3,13 +3,12 @@
 
 <h2> Certifications: </h2>
 
--[CompTIA Security+ 701]()
+ -[CompTIA Security+ 701]()
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/0af652dedaf340cf3f0baeb1b29727d3)
 - [Google Project Management Certification](https://coursera.org/share/c0868f973ab12b295789ef5d88cfe4f2)
 
 <h2>👨‍💻Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Building a Home Lab</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 
