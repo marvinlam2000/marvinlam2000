@@ -3,7 +3,7 @@
 
 <h2> Certifications: </h2>
 
- -[CompTIA Security+](CompTIA Security+ ce certificate.pdf)
+ -[View PDF](CompTIA Security+ ce certificate.pdf)
 - [Google Cybersecurity Professional Certification](https://coursera.org/share/0af652dedaf340cf3f0baeb1b29727d3)
 - [Google Project Management Certification](https://coursera.org/share/c0868f973ab12b295789ef5d88cfe4f2)
 
