@@ -53,7 +53,7 @@ My journey in information technology has led me to develop a passion for cyberse
 </div>
 
 ## Projects
-- <a href="https://github.com/marvinlam2000/Building-a-Home-Lab/blob/main/README.md">Detection Lab</a>
+- <a href=https://github.com/marvinlam2000/Detection-Lab.git>Detection Lab</a>
 - SOC Automation Project
 
 <a href="https://linkedin.com/in/marvinlam50"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
