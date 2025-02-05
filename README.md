@@ -12,7 +12,6 @@ Let’s work together to find ways to secure the future, one step at a time!
 My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to become a cybersecurity analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -24,7 +23,6 @@ My journey in information technology has led me to develop a passion for cyberse
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
