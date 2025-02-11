@@ -17,10 +17,10 @@ My journey in information technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href=https://github.com/marvinlam2000/Detection-Lab.git>Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href=https://github.com/marvinlam2000/Detection-Lab.git>Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | <a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>|
+| Incident Response Planning and Execution      |<a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>|
+| Case Management with TheHive                  | <a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>|
+| Scripting and Automation for Threat Mitigation | <a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>|
 
 ## Tools
 
@@ -51,6 +51,6 @@ My journey in information technology has led me to develop a passion for cyberse
 
 ## Projects
 - <a href=https://github.com/marvinlam2000/Detection-Lab.git>Detection Lab</a>
-- SOC Automation Project
+- <a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>
 
 <a href="https://linkedin.com/in/marvinlam50"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
