@@ -34,6 +34,12 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Shuffle-0088CC?&style=for-the-badge&logo=shuffle&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Sysmon-8A2BE2?&style=for-the-badge&logo=windows&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-PyCharm-000000?&style=for-the-badge&logo=pycharm&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
+
     
 </div>
 
