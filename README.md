@@ -21,6 +21,10 @@ My journey in information technology has led me to develop a passion for cyberse
 | Incident Response Planning and Execution      |<a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>|
 | Case Management with TheHive                  | <a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | <a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>|
+| Understanding Keylogging Techniques | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
+| Ethical & Legal Considerations | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
+| Python Programming Basics | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
+| Encrypting and Decrypting Files | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
 
 ## Tools
 
