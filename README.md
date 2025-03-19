@@ -45,6 +45,8 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+
 
 
     
