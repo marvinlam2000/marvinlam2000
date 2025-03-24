@@ -25,6 +25,9 @@ My journey in information technology has led me to develop a passion for cyberse
 | Ethical & Legal Considerations | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
 | Python Programming Basics | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
 | Encrypting and Decrypting Files | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
+| Capturing and Analyzing Network Packets | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
+| Detecting Unauthorized or malicious network Activity | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
+| Packet Dissection and Filtering | <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>|
 
 ## Tools
 
