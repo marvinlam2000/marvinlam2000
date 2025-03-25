@@ -1,11 +1,8 @@
 # Hello, I'm Marvin Lam
 
-My name is Marvin Lam, and I am a recent graduate of the University of Houston, where I earned my Bachelor’s degree in Business Administration, specializing in Management Information Systems (MIS). With a strong foundation in technology, business strategy, and data security, I am passionate about pursuing a career in cybersecurity to help protect organizations from evolving digital threats.
-
-My background in MIS has equipped me with skills in risk assessment, network security, and data management, and I am eager to apply my knowledge to real-world security challenges. I am continuously expanding my expertise in cybersecurity principles, tools, and best practices to build a solid foundation in the field.
-
-This portfolio showcases my projects, certifications, and technical skills as I take the next step in my cybersecurity career. I am excited about opportunities to contribute, learn, and grow in this ever-evolving industry.
-
+My name is Marvin Lam, and I am a recent graduate of the University of Houston, where I earned my Bachelor’s degree in Business Administration, specializing in Management Information Systems (MIS). With a strong foundation in technology, business strategy, and data security, I am passionate about pursuing a career in technology.
+My background in information systems has equipped me with skills in risk assessment, network security, and data management, and I am eager to apply my knowledge to real-world security challenges. I am continuously expanding my expertise in cybersecurity principles, tools, and best practices to build a solid foundation in the field.
+This portfolio showcases my projects, certifications, and technical skills as I take the next step in my professional career. I am excited about opportunities to contribute, learn, and grow in this ever-evolving industry.
 Let’s work together to find ways to secure the future, one step at a time!
 
 ## Objective
