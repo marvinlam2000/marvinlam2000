@@ -62,6 +62,7 @@ My journey in information technology has led me to develop a passion for cyberse
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Network%2B-EA7600?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google%20Project%20Management%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
 <img src="https://img.shields.io/badge/-IBM%20Data%20Analytics%20Professional%20Certificate-1F70C1?&style=for-the-badge&logo=IBM&logoColor=white" />
