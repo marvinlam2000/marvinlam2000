@@ -52,9 +52,7 @@ My journey in information technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=tableau&logoColor=white" />
 <img src="https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
-
-
-
+<img src="https://img.shields.io/badge/-Active%20Directory-003366?&style=for-the-badge&logo=microsoft&logoColor=white" />
 
     
 </div>
