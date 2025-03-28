@@ -25,6 +25,9 @@ My journey in information technology has led me to develop a passion for cyberse
 | Capturing and Analyzing Network Packets | <a href=https://github.com/marvinlam2000/Wireshark_Project>Wireshark Project</a>|
 | Detecting Unauthorized or malicious network Activity | <a href=https://github.com/marvinlam2000/Wireshark_Project>Wireshark Project</a>|
 | Packet Dissection and Filtering | <a href=https://github.com/marvinlam2000/Wireshark_Project>Wireshark Project</a>|
+| Identity Access Management | <a href=https://github.com/marvinlam2000/Active_Directory>Active Directory Project</a>|
+| Simulation of Brute Force Attacks | <a href=https://github.com/marvinlam2000/Active_Directory>Active Directory Project</a>|
+| Configuration of events and understanding logs | <a href=https://github.com/marvinlam2000/Active_Directory>Active Directory Project</a>|
 
 ## Tools
 
@@ -71,6 +74,7 @@ My journey in information technology has led me to develop a passion for cyberse
 - <a href=https://github.com/marvinlam2000/SOC-Automation-Lab>SOC Automation Lab</a>
 - <a href=https://github.com/marvinlam2000/Keylogger-Project.git>Keylogger Project</a>
 - <a href=https://github.com/marvinlam2000/Wireshark_Project>Wireshark Project</a>
+- <a href=https://github.com/marvinlam2000/Active_Directory>Active Directory Project</a>
 
 
 <a href="https://linkedin.com/in/marvinlam50"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
